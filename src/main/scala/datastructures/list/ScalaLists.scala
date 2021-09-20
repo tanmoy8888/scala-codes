@@ -34,8 +34,6 @@ object ScalaLists {
     println(intList.slice(1,4))
     println(intList.takeWhile(_ < 6))
     println(intList.sorted)
-
-
   }
 
 }
